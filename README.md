@@ -7,7 +7,7 @@ $ pip install requests (enter)
 $ pip install bs4 (enter)
 $ pip install colorama (enter)
 $ pkg install git (enter)
-$ git clone https://github.com/Arya-Blitar22/Scan-id (entergit clone https://github.com/cak-donwori/scan)
+$ git clone https://github.com/cak-donwori/scan (entergit clone https://github.com/cak-donwori/scan)
 $ cd scan (enter)
 $ python scaning.py bug.com (enter)
 ````
